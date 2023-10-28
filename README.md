@@ -1,0 +1,2 @@
+# rush
+ My Fairy Game ..
